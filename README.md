@@ -32,7 +32,7 @@ The attributes are as follows:
 
 The company dataset looks like this: 
  
-Problem Statement:
+### Problem Statement:
 
 A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 
